@@ -1,4 +1,4 @@
-import { pokemonTypeColors } from "../utils"
+import { pokemonTypeColors } from "../Utils"
 
 export default function TypeCard(props) {
     const { type } = props
